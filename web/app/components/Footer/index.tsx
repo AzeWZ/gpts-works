@@ -29,13 +29,12 @@ export default () => {
         <div className="mb-14 mt-16 w-full [border-bottom:1.7px_solid_rgb(0,_0,_0)]"></div>
         <div className="flex flex-row justify-between max-[991px]:items-center max-[767px]:flex-col max-[767px]:items-start max-[479px]:flex-col-reverse">
           <div className="max-[991px]: text-center font-semibold max-[991px]:py-1 max-[479px]:mb-4 sm:text-center">
-            Credit to
             <a
-              href="https://gpts.works/"
+              href="https://productgpt.info/private_policy.html"
               className="inline-block mx-2 py-1.5 pr-6 font-normal text-[#276EF1] transition hover:text-[#276EF1] sm:py-2 sm:pr-6 lg:pr-12"
               target="_blank"
             >
-              GPTs Works
+             Private Policy
             </a>
           </div>
           <div className="max-[991px]:flex-none">

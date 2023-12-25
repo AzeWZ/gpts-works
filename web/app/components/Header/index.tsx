@@ -65,7 +65,7 @@ export default () => {
             </li> */}
           </ul>
         </div>
-        <a href="https://www.buymeacoffee.com/idoubi" target="_blank">
+        {/* <a href="https://www.buymeacoffee.com/idoubi" target="_blank">
           <svg
             width="27"
             height="39"
@@ -83,7 +83,7 @@ export default () => {
               fill="#0D0C22"
             ></path>
           </svg>
-        </a>
+        </a> */}
       </div>
     </header>
   );
