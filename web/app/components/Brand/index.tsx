@@ -16,7 +16,7 @@ export default ({ count }: Props) => {
             <span className="text-primary font-bold">{count}</span> fantastic
             GPTs stored
             <a
-              href="https://github.com/all-in-aigc/gpts-works/issues/5"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSfe20QMsELCQqcUEi3EOUwomwV5VlFjpt9f0B7uUZPbgJ2rLQ/viewform?usp=sf_link"
               target="_blank"
               className="text-sm text-primary mx-2"
             >

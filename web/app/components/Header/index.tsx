@@ -23,7 +23,7 @@ export default () => {
 
         <div className="flex-1">
           <ul className="hidden md:flex float-right text-lg text-slate-700 mr-4 items-center">
-            <li className="mx-4">
+            {/* <li className="mx-4">
               <a
                 href="/extension"
                 target="_self"
@@ -35,7 +35,7 @@ export default () => {
               >
                 Extension
               </a>
-            </li>
+            </li> */}
             <li className="mx-4">
               <a
                 href="https://chat.openai.com/g/g-EBKM6RsBl-gpts-works"
@@ -45,7 +45,7 @@ export default () => {
                 GPTs
               </a>
             </li>
-            <li className="mx-4">
+            {/* <li className="mx-4">
               <a
                 href="https://github.com/all-in-aigc/gpts-works"
                 target="_blank"
@@ -62,7 +62,7 @@ export default () => {
               >
                 <BsTwitter className="text-xl" />
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
         <a href="https://www.buymeacoffee.com/idoubi" target="_blank">
