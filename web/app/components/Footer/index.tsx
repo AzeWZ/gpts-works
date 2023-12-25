@@ -22,7 +22,7 @@ export default () => {
                 alt="image"
                 className="mr-3 inline-block"
               />
-              <p className="text-[#636262] max-[479px]:text-sm">me@idoubi.cc</p>
+              <p className="text-[#636262] max-[479px]:text-sm">support@productgpt.info</p>
             </div>
           </div>
         </div>

@@ -95,7 +95,7 @@ export default () => {
       </p>
       <p>
         If you have any questions about this Privacy Policy, please contact us
-        at me@idoubi.cc.
+        at support@productgpt.info.
       </p>
       <hr />
     </div>
