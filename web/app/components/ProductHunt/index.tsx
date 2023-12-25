@@ -1,7 +1,7 @@
 export default () => {
   return (
     <div className="mb-4 mx-auto text-center">
-      <a
+      {/* <a
         href="https://www.producthunt.com/posts/gpts-works?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-gpts&#0045;works"
         target="_blank"
         className="block mx-auto"
@@ -13,7 +13,7 @@ export default () => {
           height="54"
           className="mx-auto"
         />
-      </a>
+      </a> */}
     </div>
   );
 };
